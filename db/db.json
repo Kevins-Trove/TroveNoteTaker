@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"id":"1","title":"Test Title","text":"Test text"},{"id":"2","title":"New Item","text":"Text Text"},{"title":"New Item","text":"Text Text"},{"title":"New Item","text":"Text Text","id":"51e30930-0136-11ef-8102-2159338ff192"},{"title":"New Item","text":"Text Text","id":"5ec8e2a0-0136-11ef-bcb0-297f311bd7e2"},{"title":"New Item","text":"Text Text","id":"687c19c0-0136-11ef-8389-27e65ee02dbf"}]

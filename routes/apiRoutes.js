@@ -8,6 +8,7 @@ const notes = require('../lib/notesClass');
 
 
 
+
 //------------------------------------------------------------
 // URL handlers
 //------------------------------------------------------------
@@ -18,6 +19,8 @@ router.get('/notes', (req, res) => {
 
 // Post notes writes notes to DB
 router.post('/notes', (req, res) => {
+    notes.saveNote(req.body);
+    return res.json();
   console.log("router.post(/notes");
 });
 
