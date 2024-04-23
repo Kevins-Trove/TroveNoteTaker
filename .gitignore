@@ -1,1 +1,8 @@
 README2.md
+
+# ignore all 
+.env
+
+node_modules/
+
+package-lock.json
